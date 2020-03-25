@@ -87,11 +87,13 @@ void exam4()
 
 void exam5()
 {
+	//1변수선언
 	int num1 = 10;
 	int num2;
 	const int NUM3 = 30;//선언과 동시에 초기화 필요
-	
+	//2변수 초기화
 	num2 = 20;
 	num1 += num2;
+	//3저장값 출력
 	printf("%d,%d,%d\n", num1, num2, NUM3);//30,20,30
 }
