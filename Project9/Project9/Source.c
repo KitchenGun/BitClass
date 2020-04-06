@@ -141,6 +141,7 @@ void exam6()
 		}
 	}
 	printf("%d", count);
+	
 }
 
 
