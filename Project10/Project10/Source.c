@@ -15,7 +15,7 @@ void exam10();
 
 void main()
 {
-	exam10();
+	exam1();
 }
 
 
@@ -25,6 +25,7 @@ void exam1()
 	int p2[3][5];
 	char p4[20];
 	char p5[2][20];
+	int* num1[3];
 
 	printf("%d byte\n", sizeof(p1));
 	printf("%d byte\n", sizeof(p2));
