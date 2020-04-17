@@ -1,0 +1,7 @@
+﻿  소스.c
+D:\Git\비트 초급\BitClass\Project15\Project15\소스.c(27): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  D:\Git\비트 초급\BitClass\Project15\Project15\소스.c(27): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+  D:\Git\비트 초급\BitClass\Project15\Project15\소스.c(27): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%p'에 필요합니다.
+D:\Git\비트 초급\BitClass\Project15\Project15\소스.c(26): warning C4101: 'n2' :참조되지 않은 지역 변수입니다.
+D:\Git\비트 초급\BitClass\Project15\Project15\소스.c(26): warning C4101: 'n1' :참조되지 않은 지역 변수입니다.
+  Project15.vcxproj -> D:\Git\비트 초급\BitClass\Project15\Debug\Project15.exe

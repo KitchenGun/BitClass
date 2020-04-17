@@ -1,5 +1,6 @@
 #pragma once
 
+#define DATAMAX 15
 
 void sample_init();
 
