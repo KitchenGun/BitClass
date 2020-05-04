@@ -1,3 +1,0 @@
-﻿  source2.c
-D:\Git\비트 초급\BitClass\Project7\Project7\source2.c(165): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Project7.vcxproj -> D:\Git\비트 초급\BitClass\Project7\Debug\Project7.exe

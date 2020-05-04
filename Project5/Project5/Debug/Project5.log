@@ -1,5 +1,0 @@
-﻿  Source.c
-D:\Git\비트 초급\BitClass\Project5\Project5\Source.c(70): warning C4087: 'getchar': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
-D:\Git\비트 초급\BitClass\Project5\Project5\Source.c(72): warning C4087: 'getchar': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
-D:\Git\비트 초급\BitClass\Project5\Project5\Source.c(74): warning C4087: 'getchar': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
-  Project5.vcxproj -> D:\Git\비트 초급\BitClass\Project5\Debug\Project5.exe
