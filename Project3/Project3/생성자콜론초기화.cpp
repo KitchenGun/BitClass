@@ -1,0 +1,2 @@
+//생성자 콜론 초기화//맴버변수를 초기화 할때//1. = 대입연산을 통해서 초기화//2. : 콜론 초기화//결과는 동일 과정은 다르다//1. 선언후 대입연산 방식 int n1; n1=10;//2. 선언과 동시에 초기화 방식 int n1=10;//맴버 변수중에 선언 과 동시에 초기화가 필요하면 콜론 초기화를 사용해야한다 //대표적으로 const 문이 있다.#include<iostream>using namespace std;struct Data{	int num;	char ch;	int const NUM;public:	Data():num(0),ch(' '),NUM(0)	{		//num = 0;위에 : 뒤에 쓴것과 동일		//ch = ' ';	}	Data(int _num, char _ch):num(_num),ch(_ch),NUM(0)	{		//num = _num; 위에: 뒤에 쓴것과 동일		//ch = _ch;	}};
+
