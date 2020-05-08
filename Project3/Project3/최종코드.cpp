@@ -24,7 +24,13 @@ public://생성자 구현
 	{
 
 	}
-	void Print()	{		cout << "이름 : " << name << endl;		cout << "학번 : " << number << endl;		cout << "학과 : " << subject << endl;		cout << "성별 : " << gender << endl;	}
+	void Print()
+	{
+		cout << "이름 : " << name << endl;
+		cout << "학번 : " << number << endl;
+		cout << "학과 : " << subject << endl;
+		cout << "성별 : " << gender << endl;
+	}
 };
 
 int main()

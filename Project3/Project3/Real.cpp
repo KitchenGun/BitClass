@@ -27,7 +27,13 @@ public://생성자 구현
 		delete[] name;//동적 메모리
 		delete[] subject;//동적 메모리
 	}
-	void Print()	{		cout << "이름 : " << name << endl;		cout << "학번 : " << number << endl;		cout << "학과 : " << subject << endl;		cout << "성별 : " << gender << endl;	}
+	void Print()
+	{
+		cout << "이름 : " << name << endl;
+		cout << "학번 : " << number << endl;
+		cout << "학과 : " << subject << endl;
+		cout << "성별 : " << gender << endl;
+	}
 };
 
 int main()
@@ -37,5 +43,6 @@ int main()
 	stu.Print();
 	//힙객체를 생성
 	Student* pstu = new Student("홍길순", 2222, "it", 'f');
+	pstu->Print();
 
 }
