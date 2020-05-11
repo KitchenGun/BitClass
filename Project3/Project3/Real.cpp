@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //���� �ڵ�
 #include<iostream>
 using namespace std;
@@ -49,6 +50,8 @@ int main()
 =======
 =======
 >>>>>>> parent of e69348b... 캡슐화 생성자 소멸자 복습
+=======
+>>>>>>> parent of e69348b... 캡슐화 생성자 소멸자 복습
 //���� �ڵ�
 #include<iostream>
 using namespace std;
@@ -90,6 +93,9 @@ int main()
 	Student* pstu = new Student("ȫ���", 2222, "it", 'f');
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e69348b... 캡슐화 생성자 소멸자 복습
+=======
 >>>>>>> parent of e69348b... 캡슐화 생성자 소멸자 복습
 =======
 >>>>>>> parent of e69348b... 캡슐화 생성자 소멸자 복습
