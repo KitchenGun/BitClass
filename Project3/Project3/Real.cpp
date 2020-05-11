@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //ÃÖÁ¾ ÄÚµå
 #include<iostream>
 using namespace std;
@@ -46,6 +47,8 @@ int main()
 	Student* pstu = new Student("È«±æ¼ø", 2222, "it", 'f');
 
 =======
+=======
+>>>>>>> parent of e69348b... ìº¡ìŠí™” ìƒì„±ì ì†Œë©¸ì ë³µìŠµ
 //ÃÖÁ¾ ÄÚµå
 #include<iostream>
 using namespace std;
@@ -86,5 +89,8 @@ int main()
 	//Èü°´Ã¼¸¦ »ı¼º
 	Student* pstu = new Student("È«±æ¼ø", 2222, "it", 'f');
 
+<<<<<<< HEAD
+>>>>>>> parent of e69348b... ìº¡ìŠí™” ìƒì„±ì ì†Œë©¸ì ë³µìŠµ
+=======
 >>>>>>> parent of e69348b... ìº¡ìŠí™” ìƒì„±ì ì†Œë©¸ì ë³µìŠµ
 }
