@@ -39,5 +39,11 @@
     <ClCompile Include="Real.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="09_HAS_A.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10_has_a.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
