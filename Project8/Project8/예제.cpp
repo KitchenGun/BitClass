@@ -142,8 +142,8 @@ int main()
 	for (int i = 0; i < number; i++)
 	{
 		//µ¡¼À¸¸ Ãâ·Â
-		//Add* add = dynamic_cast<Add*>(callist[i]);
-		//if (add != NULL)
+		Add* add = dynamic_cast<Add*>(callist[i]);
+		if (add != NULL)
 		{
 			printf("[%03d]", i + 1);
 			callist[i]->Print();

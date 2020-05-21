@@ -59,8 +59,11 @@ int main()
 	cat.scratch();
 	//컴파일러 입장에서 ani2의 타입은 animal*
 	Animal* ani2 = &dog;
+	Dog* pdog = (Dog*)ani2;
+	//다시 사용할려면 다운 케스팅 하면 된다
+	pdog->bite();
 	//down casting조심해야할 형 변환
-	Cat* pCat = (Cat*)ani2;//현재 강아지에서 고양이됨
+	Cat* pCat = (Cat*)ani2;//현재 강아지에서 고양이됨 //에러 감지 못함
 	pCat->scratch();
 
 
