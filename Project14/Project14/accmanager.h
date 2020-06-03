@@ -23,6 +23,7 @@ private:
 	void SearchAccountByName();//select
 	void UpdateInputAccount();//update
 	void UpdateOutputAccount();
-	int NumToIdx(int accnum);
+
+	int NumToIdx(int accnum);//select
 };
 
