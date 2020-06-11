@@ -9,7 +9,7 @@ public class Start
 		
 		stu.SetJumsu(5, 10, 8);
 		
-		stu.Println();
+		stu.Print();
 	}
 	
 	
@@ -24,7 +24,7 @@ public class Start
 		
 		base[1].SetJumsu(10, 10, 10);
 		
-		base[1].Println();
+		base[1].Print();
 		
 		
 		
