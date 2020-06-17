@@ -1,8 +1,8 @@
-package woosongbit.sample3;
-//object 최상위 클래스
-//오브젝트의 자식들을 다 저장 할수있다.
+package woosongbit.sample1;
+//회원정보를 저장 관리하는 저장소 클래스
 public class ObjectDArray 
 {
+	//타입객체가 달라져도 수정하지 않도록 클래스를 업데이트
 	//1.맴버 필드(변수)
 	private Object[] base;//배열의 주소를 가지는 참조형 변
 	private int capacity;//배열의 최대크기
@@ -42,49 +42,36 @@ public class ObjectDArray
 		return true;
 	}
 	//삭제
-	public boolean remove(Object value)
-	{
-		int idx=valueToIdx(value);
-		if(idx==-1)
-		{
-			return false;
+		public boolean remove(Object value) {
+			int idx = valueToIdx(value);
+			if(idx == -1)
+				return false;
+				
+			//삭제 알고리즘
+			for(int i=idx; i<size-1; i++) {
+				base[i] = base[i+1];
+			}
+			size--;
+			return true;
 		}
-		//삭제알고리즘
-		for(int i = idx;i<size-1;i++)
-		{
-			base[i]=base[i+1];
-		}
-		size--;
-		return true;
-	}
+
 	//검색
 	public int valueToIdx(Object value)
 	{
-		for(int i=0;i<size;i++)
-		{
-			if((char)base[i]==(char)value)//언박싱 값과 값 비교로 바뀜 오브젝트는ref타입 주소값끼리 비교해도 의미 없음
-			{
+		for(int i=0; i<size; i++) {	
+			Member mem1 = (Member)base[i];
+			String name = (String)value;
+			
+			if(mem1.getName().equals(name))	//언박싱, 값 == 값
 				return i;
-			}
 		}
 		return -1;
 	}
+
 	//특정 인덱스에 있는 값 반환
 	public Object getData(int idx)
 	{
 		return base[idx];
-	}
-	//수정
-	public boolean update(Object value,Object upvalue)
-	{
-		int idx=valueToIdx(value);
-		if(idx==-1)
-		{
-			return false;
-		}
-		//수정알고리즘
-		base[idx]=upvalue;
-		return true;
 	}
 }
 
