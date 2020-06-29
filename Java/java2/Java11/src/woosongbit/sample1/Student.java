@@ -1,4 +1,4 @@
-package woosongbit.sample;
+package woosongbit.sample1;
 
 public class Student 
 {
@@ -19,7 +19,6 @@ public class Student
 		this.c=0;
 		this.cpp=0;
 		this.average=0;
-		
 		s_number+=10;
 	}
 	
