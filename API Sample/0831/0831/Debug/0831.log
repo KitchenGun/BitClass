@@ -1,2 +1,2 @@
-﻿  수신자.cpp
-  0831.vcxproj -> D:\Git\비트\BitClass\API Sample\0831\Debug\0831.exe
+﻿  Source10.cpp
+LINK : fatal error LNK1168: D:\Git\비트\BitClass\API Sample\0831\Debug\0831.exe을(를) 쓰기용으로 열 수 없습니다.
