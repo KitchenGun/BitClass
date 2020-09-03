@@ -48,5 +48,17 @@
     <ClCompile Include="Source10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="송신자1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수신자1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="송신자2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수신자2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,2 +1,6 @@
-﻿  Source10.cpp
-LINK : fatal error LNK1168: D:\Git\비트\BitClass\API Sample\0831\Debug\0831.exe을(를) 쓰기용으로 열 수 없습니다.
+﻿  송신자1.cpp
+  송신자2.cpp
+  수신자2.cpp
+  코드를 생성하고 있습니다...
+  LINK : D:\Git\비트\BitClass\API Sample\0831\Debug\0831.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  0831.vcxproj -> D:\Git\비트\BitClass\API Sample\0831\Debug\0831.exe
