@@ -1,0 +1,127 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 851, 323
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    GROUPBOX        "계좌생성(INSERT)",IDC_STATIC,7,7,177,184
+    EDITTEXT        IDC_EDIT1,61,41,112,14,ES_AUTOHSCROLL
+    LTEXT           "계좌번호",IDC_STATIC,26,47,30,8
+    LTEXT           "이름",IDC_STATIC,26,63,16,8
+    LTEXT           "입금액",IDC_STATIC,26,81,23,8
+    EDITTEXT        IDC_EDIT2,61,61,112,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,61,79,112,14,ES_AUTOHSCROLL
+    GROUPBOX        "계좌정보보기",IDC_STATIC,207,28,420,160
+    LTEXT           "저장개수 : 0개",IDC_STATIC1,215,44,48,8
+    LISTBOX         IDC_LIST1,212,55,160,122,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT4,445,55,112,14,ES_AUTOHSCROLL
+    LTEXT           "계좌번호",IDC_STATIC,409,60,30,8
+    LTEXT           "이름",IDC_STATIC,409,76,16,8
+    LTEXT           "입금액",IDC_STATIC,409,95,23,8
+    EDITTEXT        IDC_EDIT5,445,76,112,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,445,92,112,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO1,445,111,112,108,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "선택",IDC_STATIC,409,114,16,8
+    LTEXT           "입출금액",IDC_STATIC,409,132,30,8
+    EDITTEXT        IDC_EDIT7,445,129,112,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "저장(INSERT)",IDC_BUTTON1,45,162,134,14
+    PUSHBUTTON      "입출금(UPDATE)",IDC_BUTTON2,427,166,134,14
+    PUSHBUTTON      "삭제",IDC_BUTTON3,567,54,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 844
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 316
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

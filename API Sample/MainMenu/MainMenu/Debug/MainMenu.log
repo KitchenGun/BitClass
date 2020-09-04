@@ -1,0 +1,3 @@
+﻿  handler.cpp
+D:\Git\비트\BitClass\API Sample\MainMenu\MainMenu\handler.cpp(45): warning C4715: 'OnMouseMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MainMenu.vcxproj -> D:\Git\비트\BitClass\API Sample\MainMenu\Debug\MainMenu.exe
