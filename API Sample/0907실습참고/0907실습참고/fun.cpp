@@ -127,6 +127,7 @@ void fun_Select(HWND hDlg)
 	}
 }
 
+
 void fun_ApplyName(HWND hDlg)
 {
 	for (int i = 0; i < (int)memlist.size(); i++)
