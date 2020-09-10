@@ -1,0 +1,166 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 793, 301
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "회원 정보 등록",IDC_BUTTON1,22,255,163,27
+    PUSHBUTTON      "회원 정보 검색",IDC_BUTTON2,463,256,163,27
+    LTEXT           "번호",IDC_STATIC,441,61,30,8
+    LTEXT           "이름",IDC_STATIC,441,81,30,8
+    LTEXT           "성별",IDC_STATIC,441,104,30,8
+    LTEXT           "전화번호",IDC_STATIC,441,124,30,8
+    EDITTEXT        IDC_EDIT1,487,58,157,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,487,78,157,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,487,105,157,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,487,127,157,14,ES_AUTOHSCROLL
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 281, 153
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,172,132,50,14
+    PUSHBUTTON      "취소",IDCANCEL,224,132,50,14
+    LTEXT           "이름",IDC_STATIC,21,28,16,8
+    LTEXT           "성별",IDC_STATIC,21,50,16,8
+    LTEXT           "번호",IDC_STATIC,21,72,16,8
+    EDITTEXT        IDC_EDIT1,48,26,143,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,48,70,143,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO1,47,49,143,48,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_DIALOG3 DIALOGEX 0, 0, 309, 176
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,198,155,50,14
+    PUSHBUTTON      "취소",IDCANCEL,252,155,50,14
+    EDITTEXT        IDC_EDIT1,113,46,126,40,ES_AUTOHSCROLL
+    LTEXT           "이름으로 검색",IDC_STATIC,41,67,47,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 786
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 294
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 274
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 146
+    END
+
+    IDD_DIALOG3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 302
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 169
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG3 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

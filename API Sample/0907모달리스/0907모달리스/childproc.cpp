@@ -53,7 +53,7 @@ BOOL CALLBACK ChildDlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam)
 		{
 			//변경
 			ptemp->x = GetDlgItemInt(hDlg, IDC_EDIT1, 0, 0);
-			ptemp->y = GetDlgItemInt(hDlg, IDC_EDIT2, 0, 0);
+			ptemp->y = GeDlgItemInt(hDlg, IDC_EDIT2, 0, 0);
 
 			//변경된 정보전달
 			SendMessage(GetParent(hDlg), WM_APPLY_POSITION, 0, 0);

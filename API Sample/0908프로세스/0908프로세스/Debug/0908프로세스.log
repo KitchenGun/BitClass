@@ -1,0 +1,3 @@
+﻿  fun.cpp
+D:\Git\비트\BitClass\API Sample\0908프로세스\0908프로세스\fun.cpp(95,9): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  0908프로세스.vcxproj -> D:\Git\비트\BitClass\API Sample\0908프로세스\Debug\0908프로세스.exe

@@ -1,0 +1,120 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 431, 317
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    GROUPBOX        "프로세스 생성",IDC_STATIC,7,7,123,303
+    PUSHBUTTON      "Winexec",IDC_BUTTON1,35,35,70,14
+    EDITTEXT        IDC_EDIT1,28,55,92,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "CreateProcess",IDC_BUTTON2,37,74,70,14
+    GROUPBOX        "프로세스 종료",IDC_STATIC,134,7,168,303
+    LISTBOX         IDC_LIST1,139,38,158,75,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT2,139,17,158,14,ES_AUTOHSCROLL | ES_READONLY
+    PUSHBUTTON      "TerminateProcess",IDC_BUTTON3,141,122,156,14
+    LTEXT           "프로세스 ID",IDC_STATIC,152,162,40,8
+    LTEXT           "프로세스명",IDC_STATIC,151,186,38,8
+    LTEXT           "프로세스핸들",IDC_STATIC,151,208,45,8
+    LTEXT           "종료코드",IDC_STATIC,155,227,30,8
+    EDITTEXT        IDC_EDIT3,196,161,92,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT4,193,186,92,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT5,199,205,92,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT6,193,226,92,14,ES_AUTOHSCROLL | ES_READONLY
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 424
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 310
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
