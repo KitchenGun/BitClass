@@ -1,0 +1,23 @@
+﻿  소스.cpp
+  소스1.cpp
+  소스2.cpp
+소스1.obj : error LNK2005: "unsigned int c_socket" (?c_socket@@3IA)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl sock_Recv(unsigned int,char *)" (?sock_Recv@@YAHIPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl sock_Send(unsigned int,char *)" (?sock_Send@@YAHIPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl fun_Input(char *)" (?fun_Input@@YAHPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_Run(void)" (?sock_Run@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_CreateSocket(void)" (?sock_CreateSocket@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_LibExit(void)" (?sock_LibExit@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_LibInit(void)" (?sock_LibInit@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+소스2.obj : error LNK2005: "unsigned int c_socket" (?c_socket@@3IA)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스1.obj : error LNK2005: "unsigned int __stdcall sock_RecvThread(void *)" (?sock_RecvThread@@YGIPAX@Z)이(가) 소스1.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl sock_Recv(unsigned int,char *)" (?sock_Recv@@YAHIPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl sock_Send(unsigned int,char *)" (?sock_Send@@YAHIPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "int __cdecl fun_Input(char *)" (?fun_Input@@YAHPAD@Z)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_Run(void)" (?sock_Run@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_CreateSocket(void)" (?sock_CreateSocket@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_LibExit(void)" (?sock_LibExit@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "void __cdecl sock_LibInit(void)" (?sock_LibInit@@YAXXZ)이(가) 소스.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+D:\Git\비트\BitClass\WNP\0914 WNP Client\Release\0914 WNP Client.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
