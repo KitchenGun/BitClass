@@ -10,3 +10,5 @@ int sock_Send(char* buf, int length);
 int Recv(SOCKET sock, char* buf);
 int recvn(SOCKET s, char* buf, int len, int flags);
 unsigned int __stdcall RecvThread(void* value);
+
+void sock_Close();

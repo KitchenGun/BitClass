@@ -1,0 +1,155 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 527, 309
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "서버연결",IDC_BUTTON1,28,20,50,14
+    PUSHBUTTON      "서버연결해제",IDC_BUTTON2,81,20,50,14
+    GROUPBOX        "로그인",IDC_STATIC,25,46,169,123
+    EDITTEXT        IDC_EDIT1,74,74,98,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,73,107,98,14,ES_AUTOHSCROLL
+    LTEXT           "ID",IDC_STATIC,41,76,8,8
+    LTEXT           "PW",IDC_STATIC,41,109,12,8
+    PUSHBUTTON      "로그인",IDC_BUTTON3,49,146,50,14
+    PUSHBUTTON      "회원가입",IDC_BUTTON4,113,146,50,14
+    GROUPBOX        "채팅",IDC_STATIC,216,44,282,245
+    PUSHBUTTON      "로그아웃",IDC_BUTTON5,436,20,50,14
+    EDITTEXT        IDC_EDIT3,226,265,215,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "전송",IDC_BUTTON6,443,265,50,14
+    LISTBOX         IDC_LIST1,227,62,263,198,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT6,67,175,100,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "ID",IDC_STATIC,27,178,8,8
+    LTEXT           "PW",IDC_STATIC,27,198,12,8
+    LTEXT           "Name",IDC_STATIC,27,222,19,8
+    LTEXT           "Age",IDC_STATIC,27,245,14,8
+    EDITTEXT        IDC_EDIT7,67,195,100,14,ES_PASSWORD | ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT8,67,219,100,14,ES_AUTOHSCROLL | ES_READONLY
+    COMBOBOX        IDC_COMBO1,67,244,100,103,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 185, 176
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "ID",IDC_STATIC,24,44,8,8
+    LTEXT           "PW",IDC_STATIC,24,66,12,8
+    LTEXT           "Name",IDC_STATIC,24,86,19,8
+    LTEXT           "Age",IDC_STATIC,24,105,14,8
+    PUSHBUTTON      "회원가입",IDOK,114,140,50,14
+    COMBOBOX        IDC_COMBO1,48,105,92,145,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,48,48,92,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,48,65,92,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,48,84,92,12,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 520
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 302
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 178
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 169
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG2 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -18,6 +18,7 @@ BOOL OnCommand(HWND hDlg, WPARAM wParam, LPARAM lParam)
 		case IDC_BUTTON3:		con_Login(hDlg);							break;
 		case IDC_BUTTON5:		con_LogOut(hDlg);						break;
 		case IDC_BUTTON6:		con_SendData(hDlg);						break;
+		case IDC_BUTTON7:		con_SendLongData(hDlg);						break;
 		case IDC_BUTTON4:		con_NewMember(hDlg);					break;
 		case IDCANCEL:			con_Cancel(hDlg);							break;
 	}

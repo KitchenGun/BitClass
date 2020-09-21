@@ -145,6 +145,7 @@
     <ClInclude Include="packet.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="std.h" />
+    <ClInclude Include="wbchatclient.h" />
     <ClInclude Include="wbclient.h" />
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +157,7 @@
     <ClCompile Include="newmemberdlg.cpp" />
     <ClCompile Include="packet.cpp" />
     <ClCompile Include="start.cpp" />
+    <ClCompile Include="wbchatclient.cpp" />
     <ClCompile Include="wbclient.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

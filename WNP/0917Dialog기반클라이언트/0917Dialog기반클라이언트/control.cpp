@@ -67,12 +67,37 @@ void con_DisConnectServer(HWND hDlg)
 void con_LogOut(HWND hDlg)
 {
 	g_isLogin = false;
+	//소켓 close
+	sockc_Close();
+	sock_Close();
+	//버튼 상태 변경
+	SetButtonState(hDlg, FALSE, TRUE, TRUE, TRUE, FALSE, FALSE);
 }
 
 void con_SendData(HWND hDlg)
 {
-	TCHAR msg[50];
-	GetDlgItemText(hDlg, IDC_EDIT3, msg, sizeof(msg));
+	SHORTMSG msg;
+
+	GetDlgItemText(hDlg, IDC_EDIT6, msg.id, sizeof(msg.msg));
+	GetDlgItemText(hDlg, IDC_EDIT8, msg.name, sizeof(msg.msg));
+	GetDlgItemText(hDlg, IDC_EDIT3, msg.msg, sizeof(msg.msg));
+	GetLocalTime(&msg.dt);
+
+	pack_SetSendData(&msg);
+	sockc_Send((char*)&msg, sizeof(msg));
+}
+
+void con_SendLongData(HWND hDlg)
+{
+	COPYPASTMSG msg;
+
+	GetDlgItemText(hDlg, IDC_EDIT5, msg.msg, sizeof(msg.msg));
+	GetDlgItemText(hDlg, IDC_EDIT6, msg.id, sizeof(msg.id));
+	GetDlgItemText(hDlg, IDC_EDIT8, msg.name, sizeof(msg.name));
+	GetLocalTime(&msg.dt);
+
+	pack_SetSendLongData(&msg);
+	sockc_Send((char*)&msg, sizeof(msg));
 }
 
 void SetButtonState(HWND hDlg, BOOL b1, BOOL b2, BOOL b3, BOOL b4, BOOL b5, BOOL b6)
@@ -124,6 +149,8 @@ void con_RecvData(TCHAR* buf)
 		TCHAR temp[100];
 		wsprintf(temp, TEXT("%s님이 로그인하셨습니다."), plogin->pw_name);
 		SetWindowText(g_hDlg, temp);
+		//------------------통신 서버 접속하겠다
+		sockc_CreateSocket();
 
 	}
 	else if (*flag == ACK_LOGIN_F)
@@ -142,5 +169,28 @@ void con_RecvData(TCHAR* buf)
 	{
 		LOGIN* pmem = (LOGIN*)buf;
 		MessageBox(0, TEXT("삭제 실패"), TEXT("알림"), MB_OK);
+	}
+	else if (*flag == ACK_SHORTMESSAGE)
+	{
+		SHORTMSG* pmsg = (SHORTMSG*)buf;
+
+		//리스트 박스 출력
+		TCHAR temp[100];
+		wsprintf(temp, TEXT("[%s,%s] %s (%02d:%02d:%02d)"),
+			pmsg->id, pmsg->name, pmsg->msg,
+			pmsg->dt.wHour, pmsg->dt.wMinute, pmsg->dt.wSecond);
+		HWND hList = GetDlgItem(g_hDlg, IDC_LIST1);
+		SendMessage(hList, LB_ADDSTRING, 0, (LPARAM)temp);
+
+	}
+	else if (*flag == ACK_TEXTMESSAGE)
+	{
+		COPYPASTMSG  *pmsg = (COPYPASTMSG*)buf;
+
+		//리스트 박스 출력
+		TCHAR temp[100];
+		wsprintf(temp, TEXT("%s,%s"),pmsg->id, pmsg->name);
+		SetDlgItemText(g_hDlg, IDC_EDIT9, temp);
+		SetDlgItemText(g_hDlg, IDC_EDIT10, pmsg->msg);
 	}
 }

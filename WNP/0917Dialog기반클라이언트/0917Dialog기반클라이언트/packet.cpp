@@ -20,3 +20,15 @@ void pack_SetDeleteMember(LOGIN* pmem)
 {
 	pmem->flag = PACK_DELETEMEMBER;
 }
+
+
+void pack_SetSendData(SHORTMSG *pmsg)
+{
+	pmsg->flag = PACK_SHORTMESSAGE;
+}
+
+
+void pack_SetSendLongData(COPYPASTMSG* pmsg)
+{
+	pmsg->flag = PACK_TEXTMESSAGE;
+}

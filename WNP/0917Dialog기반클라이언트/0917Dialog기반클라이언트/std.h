@@ -10,8 +10,10 @@
 #pragma comment(lib, "ws2_32.lib")  
 #include <ws2tcpip.h>
 #include <process.h>
+#include<wtypes.h>
 #include "packet.h"
 #include "wbclient.h"
+#include "wbchatclient.h"
 //-------------------------------------------------------------
 #include<stdio.h>
 #include "resource.h"

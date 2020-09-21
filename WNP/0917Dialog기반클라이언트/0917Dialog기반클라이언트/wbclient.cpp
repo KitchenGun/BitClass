@@ -143,3 +143,7 @@ unsigned int __stdcall RecvThread(void* value)
 	return 0;
 }
 
+void sock_Close()
+{
+	closesocket(c_socket);
+}
