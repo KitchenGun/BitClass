@@ -1,0 +1,22 @@
+﻿  control.cpp
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(6,15): error C2065:  'ACK_NEWMEMBER_S': 선언되지 않은 식별자입니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(10,20): error C2065:  'ACK_NEWMEMBER_F': 선언되지 않은 식별자입니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(12,3): error C2065:  'MEMBER': 선언되지 않은 식별자입니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(12,11): error C2065:  'pmem': 선언되지 않은 식별자입니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(12,19): error C2065:  'MEMBER': 선언되지 않은 식별자입니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(12,26): error C2059:  구문 오류: ')'
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(34,2): error C3861:  'socket_exit': 식별자를 찾을 수 없습니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(52,36): error C2084:  'void con_InsertAccount(HWND)' 함수에 이미 본문이 있습니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(23): message :  'con_InsertAccount'의 이전 정의를 참조하십시오.
+  handler.cpp
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\control.cpp(52): error C1075:  '{': 일치하는 토큰을 찾을 수 없습니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\handler.cpp(15,21): error C2065:  'con_': 선언되지 않은 식별자입니다.
+  packet.cpp
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\handler.cpp(16,3): error C2143:  구문 오류: ';'이(가) 'case' 앞에 없습니다.
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\packet.cpp(7,12): error C2660:  'wcscpy_s': 함수는 0개의 매개 변수를 사용하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(35,30): message :  'wcscpy_s' 선언을 참조하십시오.
+  UI.cpp
+  wbclient.cpp
+  소스.cpp
+  코드를 생성하고 있습니다...
+C:\Users\강건\source\repos\Win형식OracleDB\Win형식Oracle연동\packet.cpp(8,1): error C2143:  구문 오류: ';'이(가) '}' 앞에 없습니다.

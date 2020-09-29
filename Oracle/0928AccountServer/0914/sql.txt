@@ -1,0 +1,8 @@
+--쿼리문 테스트--
+--account 테이블 생성코드
+--acoount 테이블 삭제
+drop table account;
+--시퀀스 생성
+
+--account 테이블 insert(시퀀스,이름,입금액,날짜)
+insert into account values(accid_seq.nextval,'%s' ,%d, sysdate)"

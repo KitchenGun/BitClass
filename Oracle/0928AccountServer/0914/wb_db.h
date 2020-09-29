@@ -1,0 +1,10 @@
+//wb_db.h
+#pragma once
+
+//DB 연결 및 연결 해제--시작과 종료시점 호출
+BOOL wb_DBConnect(TCHAR* id, TCHAR* pw);
+void wb_DBDisConnect();
+
+BOOL wb_dbInsertAccout(ACCOUNT* pacc);
+
+int GetAccid(TCHAR* name);
