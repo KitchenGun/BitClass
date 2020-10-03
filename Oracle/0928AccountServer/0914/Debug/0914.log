@@ -1,21 +1,2 @@
-﻿  app.cpp
-  control.cpp
-C:\Users\강건\source\repos\0928AccountServer\0914\std.h(16,10): warning C4067:  전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  wbserver.cpp
-C:\Users\강건\source\repos\0928AccountServer\0914\std.h(16,10): warning C4067:  전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  wb_db.cpp
-C:\Users\강건\source\repos\0928AccountServer\0914\std.h(16,10): warning C4067:  전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\std.h(16,10): warning C4067:  전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(21,26): error C2065:  'SQL_ATTR_ODBC_VERSION': 선언되지 않은 식별자입니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(21,61): error C2065:  'SQL_OV_ODBC3': 선언되지 않은 식별자입니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(21,75): error C2065:  'SQL_IS_INTEGER': 선언되지 않은 식별자입니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(28,99): error C2664:  'SQLRETURN SQLConnect(SQLHDBC,SQLCHAR *,SQLSMALLINT,SQLCHAR *,SQLSMALLINT,SQLCHAR *,SQLSMALLINT)': 인수 2을(를) 'SQLTCHAR *'에서 'SQLCHAR *'(으)로 변환할 수 없습니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(28,36): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(55,5): error C2664:  'SQLRETURN SQLExecDirect(SQLHSTMT,SQLCHAR *,SQLINTEGER)': 인수 2을(를) 'SQLTCHAR *'에서 'SQLCHAR *'(으)로 변환할 수 없습니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(55,38): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(72,23): error C2065:  'SQL_C_ULONG': 선언되지 않은 식별자입니다.
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(74,5): error C2664:  'SQLRETURN SQLExecDirect(SQLHSTMT,SQLCHAR *,SQLINTEGER)': 인수 2을(를) 'SQLTCHAR *'에서 'SQLCHAR *'(으)로 변환할 수 없습니다.
-  소스.cpp
-C:\Users\강건\source\repos\0928AccountServer\0914\wb_db.cpp(74,38): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
-  코드를 생성하고 있습니다...
-C:\Users\강건\source\repos\0928AccountServer\0914\std.h(16,10): warning C4067:  전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+﻿  control.cpp
+  0914.vcxproj -> C:\Users\강건\Desktop\0928_2작업\0928AccountServer\Debug\0914.exe

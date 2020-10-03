@@ -1,6 +1,5 @@
-//member.h
+//account.h
 #pragma once
-
 
 typedef struct tagACCOUNT
 {

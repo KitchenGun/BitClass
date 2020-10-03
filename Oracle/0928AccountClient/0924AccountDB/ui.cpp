@@ -15,13 +15,14 @@ void ui_GetSelectName(HWND hDlg, TCHAR* name)
 	GetDlgItemText(hDlg, IDC_EDIT7, name, sizeof(name));
 }
 
-
-void ui_SetComboBox(int* ids, int count)
+void ui_SetComboBox(int count, int *ids)
 {
 	HWND hCombo = GetDlgItem(g_hDlg, IDC_COMBO1);
-	//콤보박스 데이터 삭제
+
+	//콤보박스 전체 데이터 삭제
 	SendMessage(hCombo, CB_RESETCONTENT, 0, 0);
-	//ID 추가
+
+	//ID추가
 	TCHAR buf[10];
 	for (int i = 0; i < count; i++)
 	{
@@ -31,12 +32,25 @@ void ui_SetComboBox(int* ids, int count)
 
 }
 
+void ui_SelectAccountPrint(PACK_ACCOUNTINFO * pacc)
+{
+	SetDlgItemText(g_hDlg, IDC_EDIT4, pacc->name);
+	SetDlgItemInt(g_hDlg, IDC_EDIT5, pacc->balance, 0);
+	TCHAR buf[50];
+	wsprintf(buf, TEXT("%d/%d/%d"),
+		pacc->stime.wYear, pacc->stime.wMonth, pacc->stime.wDay);
+	SetDlgItemText(g_hDlg, IDC_EDIT8,buf);
+}
+
 int ui_GetId(HWND hDlg)
 {
-	HWND hCombo = GetDlgItem(g_hDlg, IDC_COMBO1);
+	HWND hCombo = GetDlgItem(hDlg, IDC_COMBO1);
 
-	int i =SendMessage(hCombo, CB_GETCURSEL, 0, 0);
-	
+	int i = SendMessage(hCombo, CB_GETCURSEL, 0, 0);
+
 	TCHAR str[10];
 	SendMessage(hCombo, CB_GETLBTEXT, i, (LPARAM)str);
+	
+	// 문자열 -> 숫자
+	return _ttoi(str);
 }

@@ -2,7 +2,7 @@
 
 #include "std.h"
 
-#define SERVER_IP		"61.81.98.100" //(자신의 IP)   (IT센터) 61.81.98.100
+#define SERVER_IP		"127.0.0.1" //(자신의 IP)   (IT센터) 61.81.98.100
 #define SERVER_PORT		9000
 
 SOCKET c_socket;

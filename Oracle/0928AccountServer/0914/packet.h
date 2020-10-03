@@ -1,13 +1,19 @@
+//packet.h
 #pragma once
+
+
 //클라이언트 -> 서버
 #define PACK_INSERTACCOUNT		1	//계좌 생성
-
-
+#define PACK_SELECTNAMETOID		2	//이름으로 계좌번호 검색
+#define PACK_SELECTACCOUNT		3	//아이디로 계좌검색
 
 //서버 -> 클라이언트
-#define ACK_INSERTACCOUNT_S		51
+#define ACK_INSERTACCOUNT_S		51	
 #define ACK_INSERTACCOUNT_F		52
-
+#define ACK_SELECTNAMETOID_S	53	
+#define ACK_SELECTNAMETOID_F	54	
+#define ACK_SELECTACCOUNT_S		55	
+#define ACK_SELECTACCOUNT_F		56	
 
 
 //패킷 구조체
@@ -22,4 +28,14 @@ typedef struct tagPACK_ACCOUNTINFO
 	SYSTEMTIME stime;
 }PACK_ACCOUNTINFO;
 
-PACK_ACCOUNTINFO pack_SetInsertAccount(const ACCOUNT* pacc);
+
+//이름으로 ID검색
+//[클라이언트] : flag, name
+//[서버]       : flag(u), name, count(n), id(n)
+typedef struct tagPACK_GETNAME
+{
+	int flag;
+	TCHAR name[20];
+	int count;		//계좌 생성 개수
+	int id[50];		//계좌 ID 저장 
+}PACK_GETNAME;
