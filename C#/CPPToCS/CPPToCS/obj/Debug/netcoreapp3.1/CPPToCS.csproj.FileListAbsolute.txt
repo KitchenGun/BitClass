@@ -1,0 +1,13 @@
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.AssemblyInfoInputs.cache
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.AssemblyInfo.cs
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.csproj.CoreCompileInputs.cache
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.exe
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.deps.json
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.runtimeconfig.json
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.runtimeconfig.dev.json
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.dll
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\bin\Debug\netcoreapp3.1\CPPToCS.pdb
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.dll
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.pdb
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.genruntimeconfig.cache
+C:\Users\강건\source\repos\CPPToCS\CPPToCS\obj\Debug\netcoreapp3.1\CPPToCS.csprojAssemblyReference.cache
