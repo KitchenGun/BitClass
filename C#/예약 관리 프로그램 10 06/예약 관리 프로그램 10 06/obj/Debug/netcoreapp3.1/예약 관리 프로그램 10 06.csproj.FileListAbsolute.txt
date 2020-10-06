@@ -1,0 +1,13 @@
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.exe
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.deps.json
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.runtimeconfig.json
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.runtimeconfig.dev.json
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.dll
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\bin\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.pdb
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.AssemblyInfoInputs.cache
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.AssemblyInfo.cs
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.dll
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.pdb
+D:\Git\비트\BitClass\C#\예약 관리 프로그램 10 06\예약 관리 프로그램 10 06\obj\Debug\netcoreapp3.1\예약 관리 프로그램 10 06.genruntimeconfig.cache
