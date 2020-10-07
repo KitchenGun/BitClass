@@ -66,11 +66,6 @@ namespace 예약_관리_프로그램_10_06
         }
         #endregion
 
-        #region 예약 좌석 검색
-
-
-        #endregion
-
         #region 중복 자리검색
         private bool SearchSameSeat(int x , int y)      //중복 회원검색
         {
