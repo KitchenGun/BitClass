@@ -1,0 +1,13 @@
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.AssemblyInfoInputs.cache
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.AssemblyInfo.cs
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.exe
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.deps.json
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.runtimeconfig.json
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.runtimeconfig.dev.json
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.dll
+D:\Git\비트\BitClass\C#\1008Event\1008Event\bin\Debug\netcoreapp3.1\1008Event.pdb
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.dll
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.pdb
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.genruntimeconfig.cache
+D:\Git\비트\BitClass\C#\1008Event\1008Event\obj\Debug\netcoreapp3.1\1008Event.csprojAssemblyReference.cache
