@@ -8,6 +8,7 @@ namespace _1008Event
 {
     class EventViewer
     {
+        #region 회원가입
         public EventViewer()
         {
             MemberManager mm = MemberManager.Singleton;
@@ -24,6 +25,6 @@ namespace _1008Event
                 Console.WriteLine(pair.Value);
             }
         }
-
+        #endregion
     }
 }
