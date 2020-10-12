@@ -1,0 +1,16 @@
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.AssemblyInfoInputs.cache
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.AssemblyInfo.cs
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.exe
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.deps.json
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.runtimeconfig.json
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.runtimeconfig.dev.json
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.dll
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012.pdb
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012ClassLibrary.dll
+D:\Git\비트\BitClass\C#\1012\1012\bin\Debug\netcoreapp3.1\1012ClassLibrary.pdb
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.csproj.CopyComplete
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.dll
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.pdb
+D:\Git\비트\BitClass\C#\1012\1012\obj\Debug\netcoreapp3.1\1012.genruntimeconfig.cache

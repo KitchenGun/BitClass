@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1012</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="1012ClassLibrary">
+      <HintPath>..\..\1012ClassLibrary\1012ClassLibrary\bin\Debug\1012ClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

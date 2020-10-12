@@ -1,0 +1,6 @@
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\bin\Debug\1012ClassLibrary.dll
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\bin\Debug\1012ClassLibrary.pdb
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\obj\Debug\1012ClassLibrary.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\obj\Debug\1012ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\obj\Debug\1012ClassLibrary.dll
+D:\Git\비트\BitClass\C#\1012ClassLibrary\1012ClassLibrary\obj\Debug\1012ClassLibrary.pdb
