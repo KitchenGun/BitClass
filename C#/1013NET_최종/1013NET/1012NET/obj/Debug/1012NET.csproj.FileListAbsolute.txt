@@ -1,0 +1,21 @@
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1013NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1013NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1013NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1013NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1013NET\1012NET\obj\Debug\1012NET.pdb
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\bin\Debug\1012NET.exe.config
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\bin\Debug\1012NET.exe
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\bin\Debug\1012NET.pdb
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\obj\Debug\1012NET.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\obj\Debug\1012NET.exe
+D:\Git\비트\BitClass\C#\1013NET_최종\1013NET\1012NET\obj\Debug\1012NET.pdb

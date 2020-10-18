@@ -10,4 +10,3 @@ D:\Git\비트\BitClass\C#\1012Net\1012Net\bin\Debug\netcoreapp3.1\1012Net.pdb
 D:\Git\비트\BitClass\C#\1012Net\1012Net\obj\Debug\netcoreapp3.1\1012Net.dll
 D:\Git\비트\BitClass\C#\1012Net\1012Net\obj\Debug\netcoreapp3.1\1012Net.pdb
 D:\Git\비트\BitClass\C#\1012Net\1012Net\obj\Debug\netcoreapp3.1\1012Net.genruntimeconfig.cache
-D:\Git\비트\BitClass\C#\1012Net\1012Net\obj\Debug\netcoreapp3.1\1012Net.csprojAssemblyReference.cache

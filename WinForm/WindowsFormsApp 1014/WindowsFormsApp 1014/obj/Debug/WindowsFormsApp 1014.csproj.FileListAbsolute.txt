@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\bin\Debug\WindowsFormsApp 1014.exe.config
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\bin\Debug\WindowsFormsApp 1014.exe
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\bin\Debug\WindowsFormsApp 1014.pdb
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp 1014.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp_1014.Properties.Resources.resources
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp 1014.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp 1014.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp 1014.exe
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp 1014.pdb
+D:\Git\비트\BitClass\WinForm\WindowsFormsApp 1014\WindowsFormsApp 1014\obj\Debug\WindowsFormsApp_1014.Form1.resources

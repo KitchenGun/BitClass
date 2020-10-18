@@ -1,0 +1,12 @@
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.exe
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.deps.json
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.runtimeconfig.json
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.runtimeconfig.dev.json
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.dll
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\bin\Debug\netcoreapp3.1\1013NetClient.pdb
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.AssemblyInfoInputs.cache
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.AssemblyInfo.cs
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.dll
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.pdb
+D:\Git\비트\BitClass\C#\1013NetClient\1013NetClient\obj\Debug\netcoreapp3.1\1013NetClient.genruntimeconfig.cache

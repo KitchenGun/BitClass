@@ -1,0 +1,7 @@
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\bin\Debug\WinFormStart1014.exe.config
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\bin\Debug\WinFormStart1014.exe
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\bin\Debug\WinFormStart1014.pdb
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\obj\Debug\WinFormStart1014.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\obj\Debug\WinFormStart1014.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\obj\Debug\WinFormStart1014.exe
+D:\Git\비트\BitClass\WinForm\WinFormStart1014\WinFormStart1014\obj\Debug\WinFormStart1014.pdb
