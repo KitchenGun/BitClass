@@ -1,0 +1,11 @@
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\bin\Debug\1019paintTool.exe.config
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\bin\Debug\1019paintTool.exe
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\bin\Debug\1019paintTool.pdb
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\1019paintTool.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\_1019paintTool.Form1.resources
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\_1019paintTool.Properties.Resources.resources
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\1019paintTool.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\1019paintTool.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\1019paintTool.exe
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\1019paintTool.pdb
+D:\Git\비트\BitClass\WinForm\1019paintTool\1019paintTool\obj\Debug\_1019paintTool.Form2.resources
