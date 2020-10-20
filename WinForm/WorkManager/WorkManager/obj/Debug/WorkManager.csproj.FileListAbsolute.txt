@@ -1,0 +1,11 @@
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\bin\Debug\WorkManager.exe.config
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\bin\Debug\WorkManager.exe
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\bin\Debug\WorkManager.pdb
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.Properties.Resources.resources
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.exe
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.pdb
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.Form1.resources
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\WorkManager\WorkManager\obj\Debug\WorkManager.Form2.resources

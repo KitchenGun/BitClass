@@ -1,0 +1,7 @@
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\bin\Debug\WorkManagerFuncTest.exe.config
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\bin\Debug\WorkManagerFuncTest.exe
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\bin\Debug\WorkManagerFuncTest.pdb
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\obj\Debug\WorkManagerFuncTest.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\obj\Debug\WorkManagerFuncTest.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\obj\Debug\WorkManagerFuncTest.exe
+D:\Git\비트\BitClass\WinForm\WorkManagerFuncTest\WorkManagerFuncTest\obj\Debug\WorkManagerFuncTest.pdb

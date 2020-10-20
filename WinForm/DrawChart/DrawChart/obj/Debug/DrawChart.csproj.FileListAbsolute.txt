@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\bin\Debug\DrawChart.exe.config
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\bin\Debug\DrawChart.exe
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\bin\Debug\DrawChart.pdb
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.Form1.resources
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.Properties.Resources.resources
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.exe
+D:\Git\비트\BitClass\WinForm\DrawChart\DrawChart\obj\Debug\DrawChart.pdb
