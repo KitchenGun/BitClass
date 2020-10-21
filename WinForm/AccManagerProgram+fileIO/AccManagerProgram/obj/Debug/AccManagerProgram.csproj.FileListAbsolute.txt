@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\bin\Debug\AccManagerProgram.exe.config
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\bin\Debug\AccManagerProgram.exe
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\bin\Debug\AccManagerProgram.pdb
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.Form1.resources
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.Properties.Resources.resources
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.exe
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.pdb
+D:\Git\비트\BitClass\C#\AccManagerProgram\AccManagerProgram\obj\Debug\AccManagerProgram.csprojAssemblyReference.cache

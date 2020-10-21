@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\강건\\source\\repos\\CPPToCS\\CPPToCS\\CPPToCS.csproj",
+      "projectUniqueName": "D:\\Git\\비트\\BitClass\\C#\\CPPToCS\\CPPToCS\\CPPToCS.csproj",
       "projectName": "CPPToCS",
-      "projectPath": "C:\\Users\\강건\\source\\repos\\CPPToCS\\CPPToCS\\CPPToCS.csproj",
+      "projectPath": "D:\\Git\\비트\\BitClass\\C#\\CPPToCS\\CPPToCS\\CPPToCS.csproj",
       "packagesPath": "C:\\Users\\강건\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\강건\\source\\repos\\CPPToCS\\CPPToCS\\obj\\",
+      "outputPath": "D:\\Git\\비트\\BitClass\\C#\\CPPToCS\\CPPToCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
