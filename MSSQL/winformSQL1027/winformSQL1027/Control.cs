@@ -30,7 +30,6 @@ namespace winformSQL1027
         }
         #endregion
 
-        #region 상품 테이블 기능
 
         public void DBConnect()
         {
@@ -40,6 +39,9 @@ namespace winformSQL1027
         {
             db.DisConnect();
         }
+
+
+        #region 상품 테이블 기능
 
         public void InsertProduct(string name, int price, string des)
         {
@@ -53,6 +55,11 @@ namespace winformSQL1027
         public Book  SelectPidToBook(int pid)
         {
             return db.SelectPidToBook(pid);
+        }
+
+        public List<Book> SelectPnameToBook(string pname)
+        {
+            return db.SelectPnameToBook(pname);
         }
 
         public void DeleteProduct(int pid)
@@ -82,6 +89,11 @@ namespace winformSQL1027
         {
             return db.SelectCidToCustomer(cid);
         }
+        public List<Customer> SelectCnameToCustomer(string cname)
+        {
+            return db.SelectCnameToCustomer(cname);
+        }
+
         public void DeleteCustomer(int cid)
         {
             db.DeleteCustomer(cid);
@@ -90,6 +102,29 @@ namespace winformSQL1027
         {
             db.UpdatePhone(cid, phone);
         }
+        public void UpdateAddr(int cid, string Addr)
+        {
+            db.UpdateAddr(cid, Addr);
+        }
+
+        #endregion
+
+        #region 구매 테이블 기능
+        public void InsertSale(int cid, int pid, int count)
+        {
+            db.InsertSale(cid, pid, count);
+        }
+
+        public List<Sale> SelectAllSaleBooks(string name)
+        {
+            return db.SelectAllSaleBooks(name);
+        }
+
+        public List<Sale> SelectAllBuyCustomer(string pname)
+        {
+            return db.SelectAllBuyCustomer(pname);
+        }
+
 
         #endregion
     }

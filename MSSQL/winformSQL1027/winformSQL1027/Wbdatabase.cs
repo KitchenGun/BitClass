@@ -119,6 +119,31 @@ namespace winformSQL1027
 
         }
 
+        public List<Book> SelectPnameToBook(string pname)
+        {
+            List<Book> list = new List<Book>();
+
+            string comtext = string.Format("Select * from Product where PNAME ='{0}'", pname);
+            SqlCommand command = new SqlCommand(comtext, scon);
+
+            //select
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                Book book = new Book(
+                                        int.Parse(reader[0].ToString()),
+                                        reader[1].ToString(),
+                                        int.Parse(reader[2].ToString()),
+                                        reader[3].ToString());
+                list.Add(book);
+            }
+            reader.Close();         //<=========
+            command.Dispose();      //<=========
+
+            return list;
+
+        }
+        
         //삭제
         public Boolean DeleteProduct(int pid)
         {
@@ -199,6 +224,7 @@ namespace winformSQL1027
             command.Dispose();   //반드시 닫아야함
             return list ;
         }
+        
         public Customer SelectCidToCustomer(int cid)
         {
             List<Customer> list = new List<Customer>();
@@ -224,6 +250,32 @@ namespace winformSQL1027
 
         }
 
+        public List<Customer> SelectCnameToCustomer(string cname)
+        {
+            List<Customer> list = new List<Customer>();
+
+            string comtext = string.Format("Select * from Custom where CNAME ='{0}'", cname);
+            SqlCommand command = new SqlCommand(comtext, scon);
+
+            //select
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                Customer customer = new Customer(
+                                        int.Parse(reader[0].ToString()),
+                                        reader[1].ToString(),
+                                        reader[2].ToString(),
+                                        reader[3].ToString());
+                list.Add(customer);
+            }
+            reader.Close();         //<=========
+            command.Dispose();      //<=========
+
+            return list;
+
+        }
+
+        
         //삭제
         public Boolean DeleteCustomer(int cid)
         {
@@ -264,6 +316,96 @@ namespace winformSQL1027
             }
         }
 
+        public Boolean UpdateAddr(int cid, string Addr)
+        {
+            try
+            {
+                string comtxt = string.Format("update Custom set ADDR  = '{1}' where CID = {0}", cid, Addr);
+
+                SqlCommand scom = new SqlCommand(comtxt, scon);
+                scom.ExecuteNonQuery();
+                scom.Dispose();
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+        #endregion
+
+        #region 구매 기능
+        public Boolean InsertSale(int cid, int pid, int count)
+        {
+            try
+            {
+                string comtxt = string.Format("insert into SaleDate (CID, PID, COUNT,SaleDate) values ({0}, {1}, {2}, GETDATE())",
+                    cid, pid, count);
+
+                SqlCommand scom = new SqlCommand(comtxt, scon);
+                scom.ExecuteNonQuery();
+                scom.Dispose();
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+
+        public List<Sale> SelectAllSaleBooks(string name)
+        {
+            List<Sale> list = new List<Sale>();
+          
+            string comtext = string.Format("Select* from SaleDate where PID = (select CID from Custom where CName = '{0}')", name);
+            SqlCommand command = new SqlCommand(comtext, scon);
+
+            //select
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                Sale sale = new Sale(
+                                        int.Parse(reader[0].ToString()),
+                                        int.Parse(reader[1].ToString()),
+                                        int.Parse(reader[2].ToString()),
+                                        DateTime.Parse(reader[3].ToString()));
+                list.Add(sale);
+            }
+            reader.Close();         //<=========
+            command.Dispose();      //<=========
+
+            return list;
+
+        }
+
+        public List<Sale> SelectAllBuyCustomer(string pname)
+        {
+            List<Sale> list = new List<Sale>();
+
+            string comtext = string.Format("Select* from SaleDate where PID = (select PID from Product where PName = '{0}')", pname);
+            SqlCommand command = new SqlCommand(comtext, scon);
+
+            //select
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                Sale sale = new Sale(
+                                        int.Parse(reader[0].ToString()),
+                                        int.Parse(reader[1].ToString()),
+                                        int.Parse(reader[2].ToString()),
+                                        DateTime.Parse(reader[3].ToString()));
+                list.Add(sale);
+            }
+            reader.Close();         //<=========
+            command.Dispose();      //<=========
+
+            return list;
+
+        }
         #endregion
     }
 }
