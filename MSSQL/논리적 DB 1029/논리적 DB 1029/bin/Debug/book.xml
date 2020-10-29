@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Books>
+    <PID>1</PID>
+    <Name>123</Name>
+    <Price>1234</Price>
+    <BirthDate>2020-10-29T17:12:47.3487129+09:00</BirthDate>
+  </Books>
+</DocumentElement>

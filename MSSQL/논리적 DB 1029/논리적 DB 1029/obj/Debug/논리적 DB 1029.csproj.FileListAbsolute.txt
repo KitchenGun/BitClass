@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\bin\Debug\논리적 DB 1029.exe.config
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\bin\Debug\논리적 DB 1029.exe
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\bin\Debug\논리적 DB 1029.pdb
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적 DB 1029.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적_DB_1029.Form1.resources
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적_DB_1029.Properties.Resources.resources
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적 DB 1029.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적 DB 1029.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적 DB 1029.exe
+D:\Git\비트\BitClass\MSSQL\논리적 DB 1029\논리적 DB 1029\obj\Debug\논리적 DB 1029.pdb

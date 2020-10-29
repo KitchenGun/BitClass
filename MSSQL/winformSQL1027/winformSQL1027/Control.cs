@@ -48,6 +48,13 @@ namespace winformSQL1027
             db.InsertProduct(name, price, des);
         }
 
+        #region 프로시져
+        public void  InsertProduct1(string name, int price, string des)
+        {
+            db.InsertProduct1(name, price, des);
+        }
+        #endregion
+
         public List<Book> SelectAllBooks()
         {
             return db.SelectAllBooks();

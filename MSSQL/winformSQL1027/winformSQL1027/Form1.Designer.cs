@@ -111,6 +111,7 @@
             this.columnHeader21 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader16 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.label14 = new System.Windows.Forms.Label();
+            this.button13 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -137,6 +138,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button13);
             this.groupBox1.Controls.Add(this.button4);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.textBox4);
@@ -870,6 +872,16 @@
             this.label14.TabIndex = 0;
             this.label14.Text = "고객명";
             // 
+            // button13
+            // 
+            this.button13.Location = new System.Drawing.Point(238, 216);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(151, 23);
+            this.button13.TabIndex = 11;
+            this.button13.Text = "도서 저장(프로시저)";
+            this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -986,6 +998,7 @@
         private System.Windows.Forms.ColumnHeader columnHeader15;
         private System.Windows.Forms.ColumnHeader columnHeader16;
         private System.Windows.Forms.ColumnHeader columnHeader21;
+        private System.Windows.Forms.Button button13;
     }
 }
 

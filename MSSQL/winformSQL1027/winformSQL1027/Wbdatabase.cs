@@ -74,6 +74,39 @@ namespace winformSQL1027
             }
         }
 
+        #region 프로시져
+        public Boolean InsertProduct1(string name, int price, string des)
+        {
+            try
+            {
+                string comtxt = "AddBook";//프로시져 이름
+
+                SqlCommand scom = new SqlCommand(comtxt, scon);//접속 형식 프로시져명으로 변경
+                scom.CommandType = System.Data.CommandType.StoredProcedure;
+                //파라미터 등록
+                SqlParameter param_name = new SqlParameter("@Name", name);
+                scom.Parameters.Add(param_name);
+                SqlParameter param_price = new SqlParameter();
+                param_price.ParameterName = "@Price";
+                param_price.SqlDbType = System.Data.SqlDbType.Int;
+                param_price.Value = price;
+                scom.Parameters.Add(param_price);
+                SqlParameter param_des = new SqlParameter("@Description", des);
+                scom.Parameters.Add(param_des);
+                //
+                scom.ExecuteNonQuery();
+                scom.Dispose();
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+        #endregion
+
         //제품 전체 리스트 반환
         public List<Book>SelectAllBooks()
         {

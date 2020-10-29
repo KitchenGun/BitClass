@@ -116,6 +116,21 @@ namespace winformSQL1027
             List<Book> booklist = Control.Singleton.SelectAllBooks();
             BookListPrint(listView1,booklist);
         }
+
+        #region 프로시져
+        private void button13_Click(object sender, EventArgs e)
+        {
+            string name = textBox1.Text;
+            int price = int.Parse(textBox2.Text);
+            string des = textBox3.Text;
+
+            Control.Singleton.InsertProduct1(name, price, des);
+            //리스트뷰 출력
+            List<Book> booklist = Control.Singleton.SelectAllBooks();
+            BookListPrint(listView1, booklist);
+
+        }
+        #endregion
         #endregion
 
         #region 고객 탭
@@ -312,5 +327,6 @@ namespace winformSQL1027
         }
         #endregion
 
+       
     }
 }
