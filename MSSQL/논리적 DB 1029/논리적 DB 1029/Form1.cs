@@ -89,5 +89,10 @@ namespace 논리적_DB_1029
             db.Load();
             db.BindingGridView(dataGridView1);
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
