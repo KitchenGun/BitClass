@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\obj\Debug\_0426_RSS.Form1.resources
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\obj\Debug\_0426_RSS.Properties.Resources.resources
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\obj\Debug\0426_RSS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\bin\Debug\0426_RSS.exe
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\bin\Debug\0426_RSS.pdb
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\obj\Debug\0426_RSS.exe
+C:\Users\user\Desktop\API\0426_RSS\0426_RSS\obj\Debug\0426_RSS.pdb
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\bin\Debug\0426_RSS.exe
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\bin\Debug\0426_RSS.pdb
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\0426_RSS.csprojAssemblyReference.cache
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\_0426_RSS.Form1.resources
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\_0426_RSS.Properties.Resources.resources
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\0426_RSS.csproj.GenerateResource.cache
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\0426_RSS.csproj.CoreCompileInputs.cache
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\0426_RSS.exe
+C:\Users\ㄱ\Desktop\08_ADO.NET\0426_RSS\0426_RSS\obj\Debug\0426_RSS.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\API\0427_검색\0427_검색\bin\Debug\0427_검색.exe
+C:\Users\user\Desktop\API\0427_검색\0427_검색\bin\Debug\0427_검색.pdb
+C:\Users\user\Desktop\API\0427_검색\0427_검색\obj\Debug\_0427_검색.Form1.resources
+C:\Users\user\Desktop\API\0427_검색\0427_검색\obj\Debug\_0427_검색.Properties.Resources.resources
+C:\Users\user\Desktop\API\0427_검색\0427_검색\obj\Debug\0427_검색.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\API\0427_검색\0427_검색\obj\Debug\0427_검색.exe
+C:\Users\user\Desktop\API\0427_검색\0427_검색\obj\Debug\0427_검색.pdb

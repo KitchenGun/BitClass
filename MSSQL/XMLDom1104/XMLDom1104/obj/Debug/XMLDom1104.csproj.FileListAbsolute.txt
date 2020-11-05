@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\bin\Debug\XMLDom1104.exe.config
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\bin\Debug\XMLDom1104.exe
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\bin\Debug\XMLDom1104.pdb
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.Form4.resources
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.Properties.Resources.resources
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.exe
+D:\Git\비트\BitClass\MSSQL\XMLDom1104\XMLDom1104\obj\Debug\XMLDom1104.pdb

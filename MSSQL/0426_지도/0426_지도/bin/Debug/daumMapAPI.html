@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Daum 지도 시작하기</title>
+</head>
+<body>
+    <div id="map" style="width:390px;height:440px;"></div>
+    <script type="text/javascript" src="//apis.daum.net/maps/maps3.js?apikey=dc2c847f7274a266a71f7a4decdc69d5"></script>
+    <script>
+		var container = document.getElementById('map');
+		var options = {
+			center: new daum.maps.LatLng(33.450701, 126.570667),
+			level: 3
+		};
+
+		var map = new daum.maps.Map(container, options);
+
+		function setCenter(lat, lng) {
+		    // 이동할 위도 경도 위치를 생성합니다 
+		    var moveLatLon = new daum.maps.LatLng(lat, lng);
+
+		    // 지도 중심을 이동 시킵니다
+		    map.setCenter(moveLatLon);
+		}
+    </script>
+</body>
+</html>
