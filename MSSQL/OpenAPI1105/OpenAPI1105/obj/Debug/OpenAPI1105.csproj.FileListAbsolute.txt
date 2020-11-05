@@ -1,0 +1,13 @@
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.Form1.resources
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.Properties.Resources.resources
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\bin\Debug\OpenAPI1105.exe.config
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\bin\Debug\OpenAPI1105.exe
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\bin\Debug\OpenAPI1105.pdb
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.exe
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.pdb
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\bin\Debug\Newtonsoft.Json.dll
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\bin\Debug\Newtonsoft.Json.xml
+D:\Git\비트\BitClass\MSSQL\OpenAPI1105\OpenAPI1105\obj\Debug\OpenAPI1105.csproj.CopyComplete
