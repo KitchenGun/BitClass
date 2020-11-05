@@ -1,0 +1,12 @@
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\bin\Debug\1105OpenApiSearch.exe.config
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\bin\Debug\1105OpenApiSearch.exe
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\bin\Debug\1105OpenApiSearch.pdb
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\_1105OpenApiSearch.Form1.resources
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\_1105OpenApiSearch.Properties.Resources.resources
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.exe
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.pdb
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\bin\Debug\Newtonsoft.Json.dll
+D:\Git\비트\BitClass\MSSQL\1105OpenApiSearch\1105OpenApiSearch\obj\Debug\1105OpenApiSearch.csproj.CopyComplete
