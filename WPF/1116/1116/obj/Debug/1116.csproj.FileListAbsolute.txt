@@ -1,0 +1,7 @@
+D:\Git\비트\BitClass\WPF\1116\1116\bin\Debug\1116.exe.config
+D:\Git\비트\BitClass\WPF\1116\1116\bin\Debug\1116.exe
+D:\Git\비트\BitClass\WPF\1116\1116\bin\Debug\1116.pdb
+D:\Git\비트\BitClass\WPF\1116\1116\obj\Debug\1116.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WPF\1116\1116\obj\Debug\1116.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WPF\1116\1116\obj\Debug\1116.exe
+D:\Git\비트\BitClass\WPF\1116\1116\obj\Debug\1116.pdb
