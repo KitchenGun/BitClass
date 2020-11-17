@@ -55,8 +55,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Person.cs" />
     <Compile Include="Window-CheckBox.xaml.cs">
       <DependentUpon>Window-CheckBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window-Data.xaml.cs">
+      <DependentUpon>Window-Data.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window-DataBinding.xaml.cs">
+      <DependentUpon>Window-DataBinding.xaml</DependentUpon>
     </Compile>
     <Compile Include="Window-GroupBox,Expander.xaml.cs">
       <DependentUpon>Window-GroupBox,Expander.xaml</DependentUpon>
@@ -76,6 +83,9 @@
     <Compile Include="Window-TextBox.xaml.cs">
       <DependentUpon>Window-TextBox.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WindowDataBinding2.xaml.cs">
+      <DependentUpon>WindowDataBinding2.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -89,6 +99,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Window-CheckBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window-Data.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window-DataBinding.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -113,6 +131,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Window-TextBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WindowDataBinding2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

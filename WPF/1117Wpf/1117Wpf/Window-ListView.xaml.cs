@@ -14,7 +14,12 @@ using System.Windows.Shapes;
 
 namespace _1117Wpf
 {
-    public class MyItem    {        public string Name { get; set; }        public string Phone { get; set; }    }
+    public class MyItem
+    {
+        public string Name { get; set; }
+        public string Phone { get; set; }
+
+    }
 
     /// <summary>
     /// Window_ListView.xaml에 대한 상호 작용 논리
@@ -26,9 +31,13 @@ namespace _1117Wpf
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)        {            string inputname = name.Text;            string inputphone = phone.Text;
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string inputname = name.Text;
+            string inputphone = phone.Text;
 
-            listview1.Items.Add(new MyItem { Name = inputname, Phone = inputphone });        }
+            listview1.Items.Add(new MyItem { Name = inputname, Phone = inputphone });
+        }
 
         private void Listview1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {

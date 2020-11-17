@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\App.xaml
-81007159946
+111002703171
 
-12-1496122610
+16-950596048
 13-1505183044
-MainWindow.xaml;Window-CheckBox.xaml;Window-GroupBox,Expander.xaml;Window-ListBox.xaml;Window-ListView.xaml;Window-Radio.xaml;Window-slidebar.xaml;Window-TextBox.xaml;
+MainWindow.xaml;Window-CheckBox.xaml;Window-Data.xaml;Window-DataBinding.xaml;Window-GroupBox,Expander.xaml;Window-ListBox.xaml;Window-ListView.xaml;Window-Radio.xaml;Window-slidebar.xaml;Window-TextBox.xaml;WindowDataBinding2.xaml;
 
 False
 

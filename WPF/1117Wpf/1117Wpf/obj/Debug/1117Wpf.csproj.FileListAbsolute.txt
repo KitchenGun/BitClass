@@ -15,7 +15,6 @@ C:\Users\강건\source\repos\1117Wpf\1117Wpf\obj\Debug\1117Wpf.pdb
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\bin\Debug\1117Wpf.exe.config
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\bin\Debug\1117Wpf.exe
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\bin\Debug\1117Wpf.pdb
-C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.csprojAssemblyReference.cache
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\MainWindow.g.cs
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-CheckBox.g.cs
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\App.g.cs
@@ -41,3 +40,10 @@ C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-L
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-ListBox.baml
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-ListView.g.cs
 C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-ListView.baml
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-Data.g.cs
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-Data.baml
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-DataBinding.g.cs
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\Window-DataBinding.baml
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\WindowDataBinding2.g.cs
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\WindowDataBinding2.baml
