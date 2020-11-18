@@ -25,5 +25,7 @@
                     </ToolTip>
                 </TextBox.ToolTip>
             </TextBox>
-        </StackPanel>    </StackPanel>    
+        </StackPanel>
+    </StackPanel>
+    
 </Window>

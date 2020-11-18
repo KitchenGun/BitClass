@@ -24,10 +24,22 @@ namespace _1117Wpf
         public WindowDataBinding2()
         {
             InitializeComponent();
-            per = (Person)FindResource("person");
+            per = (Person)FindResource("person");   //정적리소스에서 획득
+
+            //에러 콜백 함수 등록[컨트롤명, 핸들러 함수]
+            Validation.AddErrorHandler(agetxt, Age_ValidationError);
         }
 
-        private void EraseButton_Click(object sender, RoutedEventArgs e)
+        private void Age_ValidationError(object sender, ValidationErrorEventArgs e)
+        {
+            MessageBox.Show((string)e.Error.ErrorContent, "유효성 검사 실패");
+
+            //동적 툴팁
+            agetxt.ToolTip = (string)e.Error.ErrorContent;
+        }
+
+
+        private void eraseButton_Click(object sender, RoutedEventArgs e)
         {
             per.Name = "";
             per.Phone = "";

@@ -1,0 +1,16 @@
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\bin\Debug\1118wpf.exe.config
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\bin\Debug\1118wpf.exe
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\bin\Debug\1118wpf.pdb
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\MainWindow.g.cs
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\App.g.cs
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf_MarkupCompile.cache
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf_MarkupCompile.lref
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\MainWindow.baml
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.g.resources
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\_1118wpf.Properties.Resources.resources
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.exe
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\1118wpf.pdb
+D:\Git\비트\BitClass\WPF\1118wpf\1118wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
