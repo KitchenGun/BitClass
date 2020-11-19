@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
@@ -61,9 +62,22 @@ namespace _1117Wpf
             }
         }
 
-        public override string ToString()
+        public override string ToString()// 바인딩시 출력을 위해서 제작
         {
-            return Name + " : " + Phone + " : " + Age + " : " + Male;
+            string sex;
+            if(Male==null)
+            {
+                sex = "남/여";
+            }
+            else if(Male ==true)
+            {
+                sex = "남";
+            }
+            else
+            {
+                sex = "여";
+            }
+            return Name + " : " + Phone + " : " + Age + " : " + sex;
         }
     }
 
@@ -172,13 +186,13 @@ namespace _1117Wpf
         }
     }
 
-    class People : List<Person>
+    class People : ObservableCollection<Person>
     {
         public People()
         {
-            Add(new Person() { Name = "홍길동", Phone = "010-1111-1111", Age = 10 });
-            Add(new Person() { Name = "일지매", Phone = "010-2222-2222", Age = 20 });
-            Add(new Person() { Name = "임꺽정", Phone = "010-3333-3333", Age = 30 });
+            Add(new Person() { Name = "홍길동", Phone = "010-1111-1111", Age = 10, Male = true});
+            Add(new Person() { Name = "일지매", Phone = "010-2222-2222", Age = 20, Male = false});
+            Add(new Person() { Name = "임꺽정", Phone = "010-3333-3333", Age = 30, Male = true});
         }
     }
 }

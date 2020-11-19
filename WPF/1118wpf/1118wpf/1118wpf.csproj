@@ -57,6 +57,7 @@
     </ApplicationDefinition>
     <Compile Include="ColorInfo.cs" />
     <Compile Include="ShapeData.cs" />
+    <Compile Include="ShapeDataList.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

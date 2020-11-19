@@ -22,11 +22,12 @@ namespace _1118wpf
     public partial class MainWindow : Window
     {
         private ShapeData sdata = null;
-
+        private ShapeDataList sdatalist = null;
         public MainWindow()
         {
             InitializeComponent();
-            sdata = (ShapeData)FindResource("shape");   //정적리소스에서 획득           
+            sdata = (ShapeData)FindResource("shape");   //정적리소스에서 획득  
+            sdatalist = (ShapeDataList)FindResource("shapedatalist");
         }
 
         //Window의 LoadEvent
@@ -71,6 +72,9 @@ namespace _1118wpf
             Canvas.SetLeft(rt, sdata.Pt.X);
             Canvas.SetTop(rt, sdata.Pt.Y);
             can.Children.Add(rt);
+            //저장
+            ShapeData sd = new ShapeData()            {                Type = sdata.Type,                Col = sdata.Col,                Size = sdata.Size,                Pt = sdata.Pt            };            sdatalist.Add(sdata);
+
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)

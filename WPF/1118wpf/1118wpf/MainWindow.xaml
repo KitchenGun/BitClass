@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525" KeyDown="Window_KeyDown" Loaded="Window_Loaded">
     <!--정적리소스 추가 -->
     <Window.Resources>
+        <local:ShapeDataList x:Key="shapedatalist"/>
         <local:ShapeData x:Key="shape" Pt="100,200" Type="1" Col="Beige" Size="25"/>
         <local:TypeToboolConverter x:Key="typetoboolconverter"/>
         <local:TypeTobool1Converter x:Key="typetobool1converter"/>
@@ -23,6 +24,7 @@
         <StackPanel Grid.Column="0"  DataContext="{StaticResource shape}">
             <Grid >
                 <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
@@ -74,6 +76,10 @@
                     <ComboBoxItem Content="150"/>
                     <ComboBoxItem Content="200"/>
                 </ComboBox>
+            </StackPanel>
+            <!--listbox-->
+            <StackPanel Grid.Column="4" Margin="2" Orientation="Horizontal" DataContext="{StaticResource shapedatalist}">
+                <ListBox ItemsSource="{StaticResource shapedatalist}"/>
             </StackPanel>
         </StackPanel>
         <!-- 우측 -->

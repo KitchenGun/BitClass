@@ -86,6 +86,9 @@
     <Compile Include="WindowDataBinding2.xaml.cs">
       <DependentUpon>WindowDataBinding2.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WindowDataBinding3.xaml.cs">
+      <DependentUpon>WindowDataBinding3.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -135,6 +138,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="WindowDataBinding2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WindowDataBinding3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

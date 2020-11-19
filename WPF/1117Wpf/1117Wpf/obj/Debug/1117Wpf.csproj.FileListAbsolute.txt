@@ -83,3 +83,6 @@ D:\Git\비트\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.csproj.CoreCompileI
 D:\Git\비트\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.exe
 D:\Git\비트\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.pdb
 D:\Git\비트\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.csprojAssemblyReference.cache
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\1117Wpf.csprojAssemblyReference.cache
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\WindowDataBinding3.g.cs
+C:\Users\강건\Documents\GitHub\BitClass\WPF\1117Wpf\1117Wpf\obj\Debug\WindowDataBinding3.baml
