@@ -9,5 +9,6 @@
     <StackPanel>
         <ProgressBar Name="prog" Maximum="100" Minimum="0" Height="25" Width="300" HorizontalAlignment="Left" Margin="20"/>
         <Slider Name="slider" Maximum="100" Minimum="0" Height="25" Width="300" HorizontalAlignment="Left" Margin="20" ValueChanged="Slider_ValueChanged" />
-    </StackPanel>
+    </StackPanel>
+
 </Window>

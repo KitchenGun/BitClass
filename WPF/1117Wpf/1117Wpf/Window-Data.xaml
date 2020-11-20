@@ -54,7 +54,8 @@
             <Button Name="addButton" Margin="3" Height="30" Grid.Column="0" Content="추가" Click="AddButton_Click" />
             <Button Name="removeButton" Margin="3" Height="30" Grid.Column="1" Content="삭제" Click="RemoveButton_Click" />
             <Button Name="updateButton" Margin="3" Height="30" Grid.Column="2" Content="변경" Click="UpdateButton_Click" />
-        </Grid>
+        </Grid>
+
         <!--리스트박스-->
         <ListBox Name="listbox1" SelectionChanged="Listbox1_SelectionChanged"/>
     </StackPanel>

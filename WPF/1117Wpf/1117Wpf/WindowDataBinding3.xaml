@@ -71,19 +71,44 @@
                 <Label Height="25" Content="{Binding Path=Male, Converter={StaticResource stringConverter}}"/>
             </Border>
         </Grid>
-        <!-- Clear버튼, 원소삭제 -->        <Grid>            <Grid.ColumnDefinitions>                <ColumnDefinition/>                <ColumnDefinition/>            </Grid.ColumnDefinitions>            <Button Name="eraseButton" Grid.Column="0" Margin="3" Height="30"  Content="Clear" Click="eraseButton_Click" />            <Button Name="removeButton" Grid.Column="1" Margin="3" Height="30" Content="원소삭제" Click="RemoveButton_Click"/>        </Grid>
+        <!-- Clear버튼, 원소삭제 -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="eraseButton" Grid.Column="0" Margin="3" Height="30"  Content="Clear" Click="eraseButton_Click" />
+            <Button Name="removeButton" Grid.Column="1" Margin="3" Height="30" Content="원소삭제" Click="RemoveButton_Click"/>
+        </Grid>
         <!--next prev 버튼-->
-        <Grid >            <Grid.ColumnDefinitions>                <ColumnDefinition/>                <ColumnDefinition/>            </Grid.ColumnDefinitions>            <Button Name="prev" Grid.Column="0" Margin="3" Height="30" Content="이전" Click="Prev_Click" />            <Button Name="next" Grid.Column="1" Margin="3" Height="30" Content="다음" Click="Next_Click" />        </Grid>
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="prev" Grid.Column="0" Margin="3" Height="30" Content="이전" Click="Prev_Click" />
+            <Button Name="next" Grid.Column="1" Margin="3" Height="30" Content="다음" Click="Next_Click" />
+        </Grid>
         <!--listbox-->
         <ListBox Name="listbox" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True">
             <ListBox.ItemTemplate>
                 <DataTemplate>
-                    <TextBlock>                        이름 :                     <TextBlock Text="{Binding Path=Name}"/>                        , 전화 :                     <TextBlock Text="{Binding Path=Phone}"/>                        , 성별 :                     <TextBlock Text="{Binding Path=Age}"/>                        <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
+                    <TextBlock>
+                        이름 : 
+                    <TextBlock Text="{Binding Path=Name}"/>
+                        , 전화 : 
+                    <TextBlock Text="{Binding Path=Phone}"/>
+                        , 성별 : 
+                    <TextBlock Text="{Binding Path=Age}"/>
+                        <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
                             <RadioButton IsChecked="{Binding Path=Male}" Content="남" />
                         </StackPanel>
                         <StackPanel Grid.Column="3" Orientation="Horizontal" Background="LightGreen">
                             <RadioButton IsChecked="{Binding Path=Male,Converter={StaticResource maleConverter}}" Content="여" />
-                        </StackPanel>                         </TextBlock>                </DataTemplate>            </ListBox.ItemTemplate>
+                        </StackPanel> 
+                        </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
         </ListBox>
     </StackPanel>
 </Window>
