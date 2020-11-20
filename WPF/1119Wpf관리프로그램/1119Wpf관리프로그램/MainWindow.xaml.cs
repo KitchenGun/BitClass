@@ -24,6 +24,7 @@ namespace _1119Wpf관리프로그램
         public MainWindow()
         {
             InitializeComponent();
+            SaveToExcel.FileLoad(ref acclist);
         }
 
         //계좌번호 생성

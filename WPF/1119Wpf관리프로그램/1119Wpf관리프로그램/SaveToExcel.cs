@@ -83,9 +83,28 @@ namespace _1119Wpf관리프로그램
         }
 
         //프로그램 실행될때 Load 
-        private static void FileLoad(Acclist acc)
+        public static void FileLoad(ref Acclist acc)
         {
-            acc = ReleaseExcelObject(acc);
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            // 바탕화면 경로 
+            string path = Path.Combine(desktopPath, "Excel.xlsx");
+            // 엑셀 파일 저장 경로 
+            excelApp = new Microsoft.Office.Interop.Excel.Application();
+            // 엑셀 어플리케이션 생성 
+            workBook = excelApp.Workbooks.Open(path);
+            // 워크북 추가 
+            workSheet = workBook.Worksheets.get_Item(1) as Microsoft.Office.Interop.Excel.Worksheet;
+            // 엑셀에 저장할 개 데이터 
+            Account account=new Account();
+            for (int i = 0;i<;i++)
+            {
+
+                account.accId = workSheet.Cells[2 + i, 1];
+                account.accName=workSheet.Cells[2 + i, 2];
+                account.accMoney=workSheet.Cells[2 + i, 3];
+                account.accTime=workSheet.Cells[2 + i, 4];
+                acc.Add(account);
+            }
         }
     }
 }
