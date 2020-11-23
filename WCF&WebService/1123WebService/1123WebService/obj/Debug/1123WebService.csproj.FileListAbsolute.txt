@@ -1,0 +1,7 @@
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\bin\Debug\1123WebService.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\bin\Debug\1123WebService.exe
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\bin\Debug\1123WebService.pdb
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\obj\Debug\1123WebService.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\obj\Debug\1123WebService.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\obj\Debug\1123WebService.exe
+D:\Git\비트\BitClass\WCF&WebService\1123WebService\1123WebService\obj\Debug\1123WebService.pdb
