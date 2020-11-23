@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\bin\Debug\WebService + Form + DB.exe.config
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\bin\Debug\WebService + Form + DB.exe
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\bin\Debug\WebService + Form + DB.pdb
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService + Form + DB.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService___Form___DB.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService___Form___DB.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService + Form + DB.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService + Form + DB.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService + Form + DB.exe
+D:\Git\비트\BitClass\WCF&WebService\WebService + Form + DB\WebService + Form + DB\obj\Debug\WebService + Form + DB.pdb
