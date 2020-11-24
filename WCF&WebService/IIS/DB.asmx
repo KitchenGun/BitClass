@@ -66,7 +66,7 @@ public class DBSaveService : WebService
     [WebMethod]     // 웹 메서드 속성을 가진다는 것을 명시
     public void SaveByte(byte[] member)
     {
-        string str = Encoding.Default.GetString(member);
+        string str = Encoding.UTF8.GetString(member);
         string[] Data = str.Split('@');
         string comtxt = string.Format("insert into Custom (CNAME, PHONE,ADDR ) values ('{0}', {1}, '{2}')", Data[0], Data[1], Data[2]);
         Connect();
