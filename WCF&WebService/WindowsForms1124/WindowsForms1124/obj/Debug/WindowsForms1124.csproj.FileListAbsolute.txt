@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\bin\Debug\WindowsForms1124.exe.config
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\bin\Debug\WindowsForms1124.exe
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\bin\Debug\WindowsForms1124.pdb
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.exe
+D:\Git\비트\BitClass\WCF&WebService\WindowsForms1124\WindowsForms1124\obj\Debug\WindowsForms1124.pdb

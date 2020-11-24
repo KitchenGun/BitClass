@@ -1,0 +1,6 @@
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\bin\Debug\wcfConsole1124.exe.config
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\bin\Debug\wcfConsole1124.exe
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\bin\Debug\wcfConsole1124.pdb
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\obj\Debug\wcfConsole1124.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\obj\Debug\wcfConsole1124.exe
+D:\Git\비트\BitClass\WCF&WebService\wcfConsole1124\wcfConsole1124\obj\Debug\wcfConsole1124.pdb
