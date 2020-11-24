@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\bin\Debug\1124PictureServiceForm.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\bin\Debug\1124PictureServiceForm.exe
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\bin\Debug\1124PictureServiceForm.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\_1124PictureServiceForm.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\1124PictureServiceForm.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\1124PictureServiceForm.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\1124PictureServiceForm.exe
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\1124PictureServiceForm.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\_1124PictureServiceForm.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\1124PictureServiceForm\1124PictureServiceForm\obj\Debug\1124PictureServiceForm.csprojAssemblyReference.cache

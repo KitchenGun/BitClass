@@ -1,0 +1,6 @@
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\bin\Debug\1124PictureService.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\obj\Debug\1124PictureService.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\obj\Debug\1124PictureService.exe
+D:\Git\비트\BitClass\WCF&WebService\1124PictureService\1124PictureService\obj\Debug\1124PictureService.pdb
