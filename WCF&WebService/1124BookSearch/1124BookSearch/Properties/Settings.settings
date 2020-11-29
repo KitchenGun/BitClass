@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_1124BookSearch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_1124BookSearch_localhost_SearchBook" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/wcf/example/BookSearchService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

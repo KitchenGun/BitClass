@@ -1,0 +1,12 @@
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.exe
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.exe
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.exe.config
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\bin\Debug\1124BookSearchService.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearchService\1124BookSearchService\obj\Debug\1124BookSearchService.pdb

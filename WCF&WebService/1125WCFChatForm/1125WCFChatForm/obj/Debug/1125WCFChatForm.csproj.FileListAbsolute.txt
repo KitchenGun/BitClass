@@ -1,0 +1,10 @@
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\bin\Debug\1125WCFChatForm.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\bin\Debug\1125WCFChatForm.exe
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\bin\Debug\1125WCFChatForm.pdb
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\1125WCFChatForm.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\_1125WCFChatForm.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\_1125WCFChatForm.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\1125WCFChatForm.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\1125WCFChatForm.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\1125WCFChatForm.exe
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChatForm\1125WCFChatForm\obj\Debug\1125WCFChatForm.pdb

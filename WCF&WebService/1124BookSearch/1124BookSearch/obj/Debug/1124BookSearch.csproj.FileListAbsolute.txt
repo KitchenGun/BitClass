@@ -1,0 +1,19 @@
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.exe.config
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.exe
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\_1124BookSearch.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\_1124BookSearch.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.exe
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.pdb
+D:\Git\비트\BitClass\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.csprojAssemblyReference.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.exe.config
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\bin\Debug\1124BookSearch.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\_1124BookSearch.Form1.resources
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\_1124BookSearch.Properties.Resources.resources
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.csproj.GenerateResource.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\WCF&WebService\1124BookSearch\1124BookSearch\obj\Debug\1124BookSearch.pdb
