@@ -4,3 +4,4 @@ D:\Git\비트\BitClass\WCF&WebService\1125WCFChat\1125WCFChat\bin\Debug\1125WCFC
 D:\Git\비트\BitClass\WCF&WebService\1125WCFChat\1125WCFChat\obj\Debug\1125WCFChat.csproj.CoreCompileInputs.cache
 D:\Git\비트\BitClass\WCF&WebService\1125WCFChat\1125WCFChat\obj\Debug\1125WCFChat.exe
 D:\Git\비트\BitClass\WCF&WebService\1125WCFChat\1125WCFChat\obj\Debug\1125WCFChat.pdb
+D:\Git\비트\BitClass\WCF&WebService\1125WCFChat\1125WCFChat\obj\Debug\1125WCFChat.csprojAssemblyReference.cache

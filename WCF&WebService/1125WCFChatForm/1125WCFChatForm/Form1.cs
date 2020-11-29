@@ -28,11 +28,11 @@ namespace _1125WCFChatForm
         {
             try
             {
-                string nickname = textBox1.Text;
-                if (nickname == "") nickname = "무명";
+                NickName = textBox1.Text;
+                if (NickName == "") NickName = "무명";
 
                 //서버 접속
-                if (proxy.Join(nickname) == false)
+                if (proxy.Join(NickName) == false)
                     new Exception("연결 오류");
             }
             catch (Exception)

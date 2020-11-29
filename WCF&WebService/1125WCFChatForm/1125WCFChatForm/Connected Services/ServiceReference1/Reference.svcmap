@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="20ce8bbc-80b6-44b1-aaaf-828e01604513" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3c87d0de-bf40-48d5-a9b1-713f1e6d50c2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:9000/Chating" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="ChatService.wsdl" MetadataType="Wsdl" ID="2ea4908a-01be-4ceb-94de-08db28a2ba88" SourceId="1" SourceUrl="http://localhost:9000/Chating?wsdl" />
-    <MetadataFile FileName="Chating.xsd" MetadataType="Schema" ID="a0ce2ccb-c63b-4395-a3c7-db3e921e1245" SourceId="1" SourceUrl="http://localhost:9000/Chating?xsd=xsd1" />
-    <MetadataFile FileName="Chating.disco" MetadataType="Disco" ID="360d6619-c11a-4d2f-8a58-5f91e7ec246c" SourceId="1" SourceUrl="http://localhost:9000/Chating?disco" />
-    <MetadataFile FileName="Chating1.xsd" MetadataType="Schema" ID="837540da-a488-441b-8a80-cfb49c78b649" SourceId="1" SourceUrl="http://localhost:9000/Chating?xsd=xsd0" />
+    <MetadataFile FileName="ChatService.wsdl" MetadataType="Wsdl" ID="95fee9c1-28a8-4ba5-b9a6-947fe339e3de" SourceId="1" SourceUrl="http://localhost:9000/Chating?wsdl" />
+    <MetadataFile FileName="Chating.xsd" MetadataType="Schema" ID="4fb0eff5-2aa9-41c8-b3bd-a53a3579f62b" SourceId="1" SourceUrl="http://localhost:9000/Chating?xsd=xsd1" />
+    <MetadataFile FileName="Chating.disco" MetadataType="Disco" ID="75a7e3d4-7a2e-494d-ab29-d49360805ab9" SourceId="1" SourceUrl="http://localhost:9000/Chating?disco" />
+    <MetadataFile FileName="Chating1.xsd" MetadataType="Schema" ID="fb52a5ff-db9c-4946-87f0-b29ab92881e7" SourceId="1" SourceUrl="http://localhost:9000/Chating?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
