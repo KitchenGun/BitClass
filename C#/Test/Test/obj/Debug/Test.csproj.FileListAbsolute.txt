@@ -1,0 +1,7 @@
+D:\Git\비트\BitClass\C#\Test\Test\bin\Debug\Test.exe.config
+D:\Git\비트\BitClass\C#\Test\Test\bin\Debug\Test.exe
+D:\Git\비트\BitClass\C#\Test\Test\bin\Debug\Test.pdb
+D:\Git\비트\BitClass\C#\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\C#\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\C#\Test\Test\obj\Debug\Test.exe
+D:\Git\비트\BitClass\C#\Test\Test\obj\Debug\Test.pdb
