@@ -337,8 +337,12 @@ namespace AccManagerProgram
 
         }
 
+
         #endregion
 
-      
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

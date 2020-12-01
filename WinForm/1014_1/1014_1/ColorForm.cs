@@ -12,7 +12,8 @@ namespace _1014_1
 {
     public partial class ColorForm : Form
     {
-        public string StrText { get; set; }
+        public string StrText { get; set; }
+
         public ColorForm(string str)
         {
             InitializeComponent();

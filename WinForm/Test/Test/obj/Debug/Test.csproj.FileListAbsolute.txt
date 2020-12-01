@@ -1,0 +1,11 @@
+D:\Git\비트\BitClass\WinForm\Test\Test\bin\Debug\Test.exe.config
+D:\Git\비트\BitClass\WinForm\Test\Test\bin\Debug\Test.exe
+D:\Git\비트\BitClass\WinForm\Test\Test\bin\Debug\Test.pdb
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.Form1.resources
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.exe
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.pdb
+D:\Git\비트\BitClass\WinForm\Test\Test\obj\Debug\Test.Form2.resources
