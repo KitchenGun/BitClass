@@ -54,7 +54,7 @@ namespace winformSQL1027
 
         #region  상품 기능
         //제품 추가
-        public Boolean InsertProduct(string name, int price, string des)
+        public Boolean  (string name, int price, string des)
         {
             try
             {
