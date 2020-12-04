@@ -1,0 +1,6 @@
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\bin\Debug\TestService.exe.config
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\bin\Debug\TestService.exe
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\bin\Debug\TestService.pdb
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\obj\Debug\TestService.exe
+D:\Git\비트\BitClass\WCF&WebService\TestService\TestService\obj\Debug\TestService.pdb

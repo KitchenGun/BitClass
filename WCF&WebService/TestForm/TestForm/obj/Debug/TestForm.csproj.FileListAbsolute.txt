@@ -1,0 +1,11 @@
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\bin\Debug\TestForm.exe.config
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\bin\Debug\TestForm.exe
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\bin\Debug\TestForm.pdb
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.Form2.resources
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.exe
+D:\Git\비트\BitClass\WCF&WebService\TestForm\TestForm\obj\Debug\TestForm.pdb
