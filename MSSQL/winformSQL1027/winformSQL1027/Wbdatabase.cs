@@ -17,7 +17,7 @@ namespace winformSQL1027
         public Wbdatabase()
         {
             DBLogin = false;
-            ConMsg = @"Data Source =DESKTOP-4IV1O4J\SQLEXPRESS;Initial Catalog=WbDB; User ID=kangkeon;Password=kang124";
+            ConMsg = @"Data Source =DESKTOP-R8F9OUG\SQLEXPRESS;Initial Catalog=WbDB; User ID=ksw;Password=123";
             scon = new SqlConnection(ConMsg);
         }
         #region 연결&연결해제
@@ -54,7 +54,7 @@ namespace winformSQL1027
 
         #region  상품 기능
         //제품 추가
-        public Boolean  (string name, int price, string des)
+        public Boolean InsertProduct(string name, int price, string des)
         {
             try
             {

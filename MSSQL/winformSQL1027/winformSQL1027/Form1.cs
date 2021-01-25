@@ -25,11 +25,11 @@ namespace winformSQL1027
                 if (Control.Singleton.DBLogin ==  true)
                 {
                     //리스트뷰 출력
-                    List<Book> booklist = Control.Singleton.SelectAllBooks();
-                    BookListPrint(listView1,booklist);
+                    //List<Book> booklist = Control.Singleton.SelectAllBooks();
+                    //BookListPrint(listView1, booklist);
                     //리스트뷰 출력
-                    List<Customer> customlist = Control.Singleton.SelectAllCustomers();
-                    CustomerListPrint(listView2,customlist);
+                    //List<Customer> customlist = Control.Singleton.SelectAllCustomers();
+                    //CustomerListPrint(listView2, customlist);
                     button1.Text = "DB 연결해제";
                 }
             }
